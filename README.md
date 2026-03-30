@@ -2,30 +2,26 @@
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer 🚀</h3>
 
 <p align="center">
-  Passionate about building scalable full-stack web apps with modern technologies.
+  Passionate about building scalable full-stack web apps with modern UI and robust backend systems 🔥
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **Advanced Backend + System Design**
-- 👨‍💻 Portfolio projects: **Zomato SaaS, Chat App, Auth Systems**
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
-- ⚡ Fun fact: **I love building production-level projects**
+- 💻 MERN Stack Developer
+- 🔥 Building production-level full-stack apps
+- 🌱 Learning advanced backend, SaaS architecture & system design
+- 🚀 Focused on scalable real-world products
+- 📍 Baraut, Uttar Pradesh, India
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<p>
+<a href="https://www.linkedin.com/in/ashu-kumar">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/your-instagram" target="blank">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
 
@@ -39,6 +35,28 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🍔 ZOMATO-SAAS
+Production-level food ordering SaaS built with MERN stack.
+
+### 💬 chitzy
+Realtime chat application with authentication and modern UI.
+
+### 🔐 Mern-Auth
+Complete MERN authentication system with secure login/signup.
+
+### 🌐 ASHU-3D-PORTFOLIO
+Modern 3D animated portfolio website.
+
+### 🤖 Student Performance Predictor
+Machine learning based prediction system.
+
+### 🧠 Calculator with AI Assistant
+AI-powered calculator with step-by-step solutions.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,13 +66,3 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu8477&theme=tokyonight"/>
 </p>
-
----
-
-## 🚀 Top Projects
-
-- 🍔 Zomato Style SaaS
-- 💬 Realtime Chat App
-- 🔐 MERN Authentication
-- 🎵 Spotify Clone
-- 🛒 Amazon Clone
