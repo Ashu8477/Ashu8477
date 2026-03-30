@@ -71,20 +71,26 @@
 
 ---
 
-## 📈 Most Used Languages
+## 💻 Core Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu8477&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/API-Express-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/UI-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashu8477&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/17+-Repositories-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Projects-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Project-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Realtime-Chat_App-purple?style=for-the-badge" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
